@@ -1,0 +1,12 @@
+while--is one type of loop in programming.
+print--used to display what you want to show in C use printf() in some languages use print()
+scanf--used to get input from user
+fopen--used to open a file to perform various operations which include reading, writing etc. along with various modes.
+fgetc--used to obtain input from a file single character at a time.
+fgets--reads characters from the standard input (stdin) and stores them as a C string into str until a newline character or the end-of-file is reached.
+fputc--used to write a single character at a time to a given file.
+float--is a datatype which is used to represent the floating point numbers.
+break--used to ends the loop immediately when it is encountered.
+const--used to define a constant.
+short--is a type modifier that alters the basic data type.
+array--is a variable that can store multiple values.
